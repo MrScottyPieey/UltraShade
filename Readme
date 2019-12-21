@@ -9,5 +9,5 @@ Building
 UltraShade does Visual Studio 2019 or higher to build and install UltraShade and Python for the g13 and Vulkan SDK is required to make it work.
 
 Step 1 Clone this repository including all git submodules
-Open the Visual Studio solution.
+Step 2 Open the Visual Studio 2019 solution.
 3. Selecet
